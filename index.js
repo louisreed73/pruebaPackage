@@ -1,3 +1,3 @@
 module.exports=()=>{
-csonole.log("Saludos a todos!!!!")
+console.log("Saludos a todos!!!!")
 }
