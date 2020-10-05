@@ -1,5 +1,5 @@
 {
-  "name":"pruebaPackage.json",
+  "name":"pruebaPackage",
   "version":"1.0.0",
-  "main":"index.json"
+  "main":"index.js"
 }
